@@ -32,9 +32,6 @@ public class CirculoTest {
         
         */
         
-        
-        
-        
         /*
         
         // este error ocurre porque el radio es un atributo privado, y solo se puede acerder a el con los getters y setters
