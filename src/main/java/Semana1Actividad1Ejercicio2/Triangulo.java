@@ -56,7 +56,7 @@ public class Triangulo extends FiguraGeometrica{
 
     @Override
     public String toString() {
-        return "Triángulo: " + getNombre() + " tiene 3 Puntos: " + punto1.toString() + ", " + punto2.toString() + ", " + punto3.toString();
+        return "Triangulo: " + getNombre() + " tiene 3 puntos: " + punto1.toString() + ", " + punto2.toString() + ", " + punto3.toString();
     }
 
 
@@ -82,10 +82,8 @@ public class Triangulo extends FiguraGeometrica{
     
     @Override
     public String getNombre() {
-        return "Triángulo";
+        return "Triangulo";
     }
 
-    
 
-    
 }

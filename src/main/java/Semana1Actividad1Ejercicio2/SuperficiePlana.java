@@ -12,9 +12,6 @@ package Semana1Actividad1Ejercicio2;
  */
 public class SuperficiePlana {
     
-
-    
-    
     public double CalcularAreaFigura(FiguraGeometrica figura) {
         return figura.calcularArea();
     }

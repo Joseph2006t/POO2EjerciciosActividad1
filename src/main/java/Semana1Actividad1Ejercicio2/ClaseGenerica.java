@@ -41,7 +41,7 @@ public class ClaseGenerica {
             System.out.println("Area del triangulo: " + area);
 
             boolean esRegular = t.esRegular();
-            System.out.println("¿El triangulo es regular? " + esRegular);
+            System.out.println("El triangulo es regular? " + esRegular);
 
             System.out.println(t);
         }

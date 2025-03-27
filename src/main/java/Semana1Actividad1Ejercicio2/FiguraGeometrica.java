@@ -10,9 +10,9 @@ package Semana1Actividad1Ejercicio2;
  */
 public abstract class FiguraGeometrica {
     
-    public abstract double calcularArea();
-    public abstract boolean esRegular();
+    protected abstract double calcularArea();
+    protected abstract boolean esRegular();
 
-    public abstract String getNombre();
+    protected abstract String getNombre();
     
 }
